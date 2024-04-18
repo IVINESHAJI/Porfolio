@@ -1,0 +1,14 @@
+html, body {
+  color: white;
+  margin: 0;
+  padding: 0;
+  cursor: url('./images/icons8-3d-pointer-48.png'), auto;
+}
+
+li:hover {
+  cursor: url('./images/icons8-finger-up-80.png'), auto;
+}
+
+a:hover {
+  cursor: url('./images/icons8-finger-up-80.png'), auto;
+}

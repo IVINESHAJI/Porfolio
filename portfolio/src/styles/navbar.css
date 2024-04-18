@@ -1,0 +1,29 @@
+.portImage {
+    height: 4rem;
+}
+
+.navHead {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    margin-bottom: 5%;
+}
+
+.navPoints {
+    list-style-type: none;
+    display: flex;
+    font-size: 1.5rem;
+    font-family: "Oswald";
+}
+
+.navPoints li {
+    margin-right: 30%;
+}
+
+.navPoints a {
+    text-decoration: none;
+    color: white;
+}
+
